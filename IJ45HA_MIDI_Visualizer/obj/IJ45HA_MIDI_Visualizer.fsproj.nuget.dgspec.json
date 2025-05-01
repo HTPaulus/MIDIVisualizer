@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\darkl\\source\\repos\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\darkl\\source\\repos\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darkl\\source\\repos\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer.fsproj",
+        "projectName": "IJ45HA_MIDI_Visualizer",
+        "projectPath": "C:\\Users\\darkl\\source\\repos\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer.fsproj",
+        "packagesPath": "C:\\Users\\darkl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darkl\\source\\repos\\IJ45HA_MIDI_Visualizer\\IJ45HA_MIDI_Visualizer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\darkl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
