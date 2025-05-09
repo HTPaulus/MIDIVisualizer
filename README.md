@@ -10,3 +10,9 @@ How does it work?
 - Click on the play button to play the midi file. You can then stop it by pressing the pause or stop button.
 
 ![Screenshot](test.png)
+
+
+The project needs the following to compile:
+
+- .NET Framework version 4.8.1
+- NAudio version 2.1.0
