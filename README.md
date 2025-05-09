@@ -16,3 +16,12 @@ The project needs the following to compile:
 
 - .NET Framework version 4.8.1
 - NAudio version 2.1.0
+
+Build and run:
+
+```bash
+git clone https://github.com/HTPaulus/MIDIVisualizer.git
+cd MIDIVisualizer
+dotnet build IJ45HA_MIDI_Visualizer.sln
+dotnet run --project IJ45HA_MIDI_Visualizer/IJ45HA_MIDI_Visualizer.fsproj
+```
