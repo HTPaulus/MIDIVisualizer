@@ -9,7 +9,7 @@ How does it work?
 
 - Click on the play button to play the midi file. You can then stop it by pressing the pause or stop button.
 
-![Screenshot](test.png)
+![Screenshot](screenshot.png)
 
 
 The project needs the following to compile:
