@@ -2,7 +2,6 @@
 This F# application can import, analyze, visualize, and play MIDI files.
 
 How does it work?
-- Launch the file “IJ45HA_MIDI_Visualizer.exe” in the directory “IJ45HA_MIDI_Visualizer/bin/Debug/net481”.
 - Click on the Import MIDI button
 - Select a file with any .mid extension and click open
 
